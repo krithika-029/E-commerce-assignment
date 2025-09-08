@@ -1,0 +1,21 @@
+{
+    "name": "techmart-ecommerce",
+    "version": "0.1.0",
+    "description": "My e-commerce project built with vanilla JS and Node.js",
+    "main": "app.js",
+    "scripts": {
+        "start": "cd backend && npm start",
+        "dev": "cd backend && npm run dev",
+        "backend": "cd backend && npm install",
+        "frontend": "python -m http.server 3000"
+    },
+    "keywords": [
+        "ecommerce",
+        "javascript",
+        "nodejs",
+        "shopping-cart",
+        "spa"
+    ],
+    "author": "Your Name",
+    "license": "MIT"
+}
